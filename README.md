@@ -1,3 +1,3 @@
-# This Python script, powered by Pandas, processes daily weather data in a long, time-series format. 
+# This Python script, which uses pandas, processes daily weather data in a long, time-series format. 
 # It extracts minimum, maximum, and precipitation values, then reformats them into a wider format compatible with the MapShed hydrological model. 
 # This includes converting millimeters to inches and Celsius to Fahrenheit and saves new dataframe to a csv file, as required by the model.
